@@ -66,7 +66,7 @@ From the MS-DOS command prompt:
 C:\Users\nada> call
 ```
 
-#### MS-DOS
+#### Microsoft Windows
 From the Windows command prompt:
 ```shell
 C:\Users\nada> C:\Windows\hh.exe
