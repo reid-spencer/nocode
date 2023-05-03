@@ -48,6 +48,30 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 I know right?
 
+### Running
+To run your nocode creation, regardless of its content, see the sub-sections below for the appropriate command to run. 
+However, you could optimize that by being true to the nocode spirit and just not type anything at the command prompt. 
+
+#### Unix
+From most Unix command line (shell):
+```shell
+% $(:)
+% echo $?
+0
+```
+
+#### MS-DOS
+From the MS-DOS command prompt:
+```shell
+C:\Users\nada> call
+```
+
+#### MS-DOS
+From the Windows command prompt:
+```shell
+C:\Users\nada> C:\Windows\hh.exe
+```
+
 ## Contributing
 
 You don't.
